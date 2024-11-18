@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hjj.github.io/static/css/main.7720ec91.css",
-    "main.js": "/hjj.github.io/static/js/main.a72deee1.js",
+    "main.js": "/hjj.github.io/static/js/main.9391ef95.js",
     "static/js/453.d4923e65.chunk.js": "/hjj.github.io/static/js/453.d4923e65.chunk.js",
     "static/media/left.svg": "/hjj.github.io/static/media/left.e74de3ec0611913bda20171ee936a782.svg",
     "static/media/right.svg": "/hjj.github.io/static/media/right.b423a6cf7075ce3f4b85d573f75a00c3.svg",
@@ -11,11 +11,11 @@
     "static/media/task.svg": "/hjj.github.io/static/media/task.d290dba470aaa039313a34d7eb179b4f.svg",
     "static/media/bug.svg": "/hjj.github.io/static/media/bug.ef201af264300307d1e36ddb9f04c3b0.svg",
     "main.7720ec91.css.map": "/hjj.github.io/static/css/main.7720ec91.css.map",
-    "main.a72deee1.js.map": "/hjj.github.io/static/js/main.a72deee1.js.map",
+    "main.9391ef95.js.map": "/hjj.github.io/static/js/main.9391ef95.js.map",
     "453.d4923e65.chunk.js.map": "/hjj.github.io/static/js/453.d4923e65.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7720ec91.css",
-    "static/js/main.a72deee1.js"
+    "static/js/main.9391ef95.js"
   ]
 }
